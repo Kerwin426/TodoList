@@ -2,7 +2,7 @@
 全栈todolist
 
 首先在IDEA中运行Todoapp,打开后端
-然后在Webstorm或vscode中使用 npm run dev 来启动前端
+然后在Webstorm或vscode中打开todo-front ，使用 npm run dev 来启动前端
 
 
 参考链接
